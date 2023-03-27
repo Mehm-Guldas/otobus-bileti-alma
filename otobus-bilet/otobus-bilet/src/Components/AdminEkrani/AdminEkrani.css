@@ -1,0 +1,15 @@
+.yeni-sefer-ekle {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 20% 20px 20%;
+  padding: 10px;
+  background-color: bisque;
+}
+
+.yeni-sefer-baslik {
+  font-weight: 600;
+  font-size: 19px;
+}
